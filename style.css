@@ -143,6 +143,11 @@ img {
 	font-size: 9px;
 	line-height: 1;
 	color: #444;
+	opacity: 0.6;
+}
+
+.offer a {
+	opacity: 1;
 }
 
 /*HEADER*/
